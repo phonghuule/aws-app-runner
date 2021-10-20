@@ -1,0 +1,11 @@
+version: 1.0
+runtime: python3
+build:
+  commands:
+    build:
+    - yum install -y pycairo
+    - pip install -r requirements.txt
+run:
+  command: python app.py
+  network:
+    port: 8000
