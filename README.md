@@ -102,7 +102,7 @@ The Dockerfile contains the instructions for assembling our container image. Our
 cd ~/environment/aws-app-runner/hello-app-runner
 cat Dockerfile  
 ```
-Let’s go ahead and build of our app.
+Let’s go ahead and build our image.
 
 ```
 cd ~/environment/aws-app-runner/hello-app-runner
@@ -194,7 +194,7 @@ docker build -t hello-app-runner:demo .
 docker tag hello-app-runner:demo $ECR_REPOSITORY_URI:demo
 docker push $ECR_REPOSITORY_URI:demo
 ```
-Our service will now tranition into Operation in progress while the deployment occurs, once it is finished, the status will transtion to Running.
+Our service will now transition into Operation in progress while the deployment occurs, once it is finished, the status will transtion to Running.
 
 ![transition](./images/transition.png)
 
@@ -210,10 +210,10 @@ Navigate to [Amazon ECR Console](https://console.aws.amazon.com/ecr/) and delete
 Navigate to [AWS App Runner Console](https://console.aws.amazon.com/apprunner/) and delete <b>hello-app-runner</b> service
 
 ### Step 3
-Delete the Cloud 9 CloudFormation stack named **EKS-ALB-2048-Game** from AWS Console:
+Delete the Cloud 9 CloudFormation stack named **AWS-App-Runner** from AWS Console:
 
 - Launch [AWS CloudFormation Console](https://console.aws.amazon.com/cloudformation/home)
-- Select stack **EAWS-App-Runner**.
+- Select stack **AWS-App-Runner**.
 - In the stack details pane, choose *Delete*.
 - Select *Delete* stack when prompted.
 
