@@ -143,7 +143,7 @@ aws iam attach-role-policy --role-name $ROLE_NAME --policy-arn arn:aws:iam::aws:
 Now that we have configured our IAM role and policy, let’s go to [App Runner](https://console.aws.amazon.com/apprunner/) and create our service.
 
 ### Create App Runner Service
-Go to the [AWS App Runner console](https://console.aws.amazon.com/apprunner/) and click Create an App Runner service.
+Go to the [AWS App Runner console](https://us-west-2.console.aws.amazon.com/apprunner/) and click Create an App Runner service.
 
 ![service-create-service](./images/service-create-service.png)
 
