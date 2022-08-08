@@ -17,7 +17,7 @@ In this lab, we will build a container image which we will push to [Amazon Elast
 ### Step 1 - Create Cloud9 environment via AWS CloudFormation
 
 1. Log in your AWS Account
-1. Click [this link](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWS-App-Runner&templateURL=https://aws-innovate-modern-applications.s3.amazonaws.com/aws-app-runner/cloud9.yaml) and open a new browser tab
+1. Click [this link](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWS-App-Runner&templateURL=https://awsinnovatefea2022.s3.amazonaws.com/aws-app-runner/cloud9.yaml) and open a new browser tab
 1. Click *Next* again to the stack review page, tick **I acknowledge that AWS CloudFormation might create IAM resources** box and click *Create stack*.
   
   ![Acknowledge Stack Capabilities](./images/acknowledge-stack-capabilities.png)
