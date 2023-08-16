@@ -1,8 +1,6 @@
 ## Deploy Containerized Application To AWS App Runner
 
-This lab is provided as part of **[AWS Innovate Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/apj/modern-apps/)**. 
-
-Click [here](https://github.com/phonghuule/aws-innovate-modern-applications-2022) to explore the full list of hands-on labs.
+This lab is provided as part of **[AWS Innovate Every Application Edition](https://aws.amazon.com/events/aws-innovate/apj/for-every-app/)**. 
 
 ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
@@ -218,4 +216,14 @@ Delete the Cloud 9 CloudFormation stack named **AWS-App-Runner** from AWS Consol
 - Select stack **AWS-App-Runner**.
 - In the stack details pane, choose *Delete*.
 - Select *Delete* stack when prompted.
+
+## Survey
+Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing this [event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_1U4cxprfqLngWGy?Session=HOL08). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits1, 2 & 3. AWS credits will be sent via email by September 29, 2023.
+Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
+
+<sup>1</sup>AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/ 
+<sup>2</sup>Limited to 1 x USD25 AWS credits per participant.
+<sup>3</sup>Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
+
+
 
