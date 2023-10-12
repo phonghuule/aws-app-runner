@@ -221,7 +221,7 @@ Delete the Cloud 9 CloudFormation stack named **AWS-App-Runner** from AWS Consol
 
 
 ## Survey
-Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing [this event session poll](https://github.com/phonghuule/aws-app-runner). 
+Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing [this event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_5BWPHDlxVcsRbo2?Session=HOL01). 
 Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits <sup> 1, 2 & 3 </sup>. AWS credits will be sent via email by November 30, 2023.
 Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
 
