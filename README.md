@@ -44,7 +44,7 @@ In this lab, we will build a container image which we will push to [Amazon Elast
 
 ### Step 3 - Disable Cloud9 Managed Credentials
 
-1. Launch [AWS Cloud9 Console](https://console.aws.amazon.com/cloud9/](https://us-west-2.console.aws.amazon.com/cloud9control/home?region=us-west-2#/)
+1. Launch [AWS Cloud9 Console](https://us-west-2.console.aws.amazon.com/cloud9control/home?region=us-west-2#/)
 1. Locate the Cloud9 environment created for this lab and click "Open IDE". The environment title should start with *AppRunnerCloud9*.
 1. At top menu of Cloud9 IDE, click *AWS Cloud9* and choose *Preferences*.
 1. At left menu *AWS SETTINGS*, click *Credentials*.
